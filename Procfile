@@ -1,1 +1,1 @@
-web: gunicorn ProyectoSITU/wsgi:app
+web: gunicorn ProyectoSITU.wsgi
