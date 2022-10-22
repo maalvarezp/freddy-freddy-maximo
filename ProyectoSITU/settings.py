@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-af(gu6!2993md_qjot2c1pfwz=sb(q$-$xhnjhq^=_kkt@r@_7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['freddy-freddy-maximo-situ.herokuapp.com', 'https://freddy-freddy-maximo-situ.herokuapp.com', '*']
 
 
 # Application definition
