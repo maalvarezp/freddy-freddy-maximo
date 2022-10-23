@@ -1,2 +1,2 @@
-config:set DISABLE_COLLECTSTATIC=1
+python manage.py collectstatic --noinput;
 web: gunicorn ProyectoSITU.wsgi
